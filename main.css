@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(netflix.jpeg);
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 5%;
+    font-family: 'montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 6%;
+}
+
+p {
+    padding-bottom: 4%;
+}
+
+button {
+    background-color: #ad2926;
+    padding: 2%;
+    color: white;
+    font-family: 'montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+/********************** START 120PX MEDIA QUERY ****************************/
+
+@media (min-width: 1200px) {
+    body {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+}
