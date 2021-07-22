@@ -1,4 +1,4 @@
-let netflixShows = ["Greys Anatomy", "Bridgeton", "Vampire Diaries", "New Girl", "Gilmore Girls", "Orange is the New Black", "NCIS", "Schitts Creek", "Criminal Minds", "The Queen's Gambit"]
+let netflixShows = ["Greys Anatomy", "Bridgerton", "Vampire Diaries", "New Girl", "Gilmore Girls", "Orange is the New Black", "NCIS", "Schitts Creek", "Criminal Minds", "The Queen's Gambit"]
 
 let netflixShow = document.getElementById("netflix-show");
 
